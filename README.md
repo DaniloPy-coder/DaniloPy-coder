@@ -41,8 +41,6 @@ Me chamo Danilo José, tenho 18 anos e sou natural de Recife-PE. Concluí o ensi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
----
-
 ### 📊 Estatísticas
 
 <p>
