@@ -43,6 +43,8 @@ Me chamo Danilo José, tenho 18 anos e sou natural de Recife-PE. Concluí o ensi
 
 ### 📊 Estatísticas
 
+<br>
+
 <div style="text-align: center;">
   <img 
     alt="GitHub Stats" 
@@ -57,3 +59,4 @@ Me chamo Danilo José, tenho 18 anos e sou natural de Recife-PE. Concluí o ensi
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloPy-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
