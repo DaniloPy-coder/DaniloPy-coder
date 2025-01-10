@@ -33,6 +33,13 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
+    <img 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    />
 </div>
 
 <h3>📊 Estatísticas</h3>
