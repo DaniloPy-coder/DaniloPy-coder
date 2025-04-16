@@ -34,6 +34,34 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
     />
     <img 
+        alt="TypeScript" 
+        title="TypeScript" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        alt="NextJs" 
+        title="NextJs" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        alt="Node" 
+        title="Node" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    />
+    <img 
+        alt="postgresql" 
+        title="postgresql" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    />
+    <img 
         alt="Git" 
         title="Git" 
         width="30px" 
