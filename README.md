@@ -1,7 +1,8 @@
 <h2>Danilo José</h2>
 <p>Desenvolvedor Web | Front-end</p>
 
-<p>Me chamo Danilo José, tenho 18 anos e sou natural de Recife-PE. Concluí o ensino médio, em paralelo com o curso técnico de tecnologia da informação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade Anhanguera. Gosto muito de tecnologia e compartilho meus conhecimentos e projetos no perfil do LinkedIn "<a href="https://www.linkedin.com/in/danilo-dev2006/" target="_blank">Danilo José</a>", onde compartilho os projetos que eu faço.</p>
+<p>Meu nome é Danilo José tenho 18 anos, sou natural de Recife-PE, mas atualmente moro em Cruzeiro-SP. Atualmente sou estudante de análise e desenvolvimento de sistemas. Embora ainda não tenha experiência profissional na área, desenvolvo projetos para adicionar ao meu portfólio, o que me ajuda a compensar essa falta. Com meus conhecimentos e habilidades, estou comprometido em contribuir ao máximo para o crescimento da empresa. Sou uma pessoa proativa, com grande vontade de aprender e aprimorar minhas competências, e gosto de trabalhar em equipe.
+</p>
 
 <h3>🤖 Linguagens e Tecnologias</h3>
 <div style="display: inline-block;">
