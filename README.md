@@ -21,14 +21,7 @@
         width="30" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
-    <img
-    alt="Tailwind CSS"
-    title="Tailwind CSS"
-    width="30"
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-    />
-
+  
   <img 
         alt="JavaScript" 
         title="JavaScript" 
