@@ -2,7 +2,7 @@
 <p><strong>Desenvolvedor Web | Full Stack</strong></p>
 
 <p>
-  Meu nome é Danilo José, tenho 18 anos e sou natural de Recife-PE, atualmente moro em Cruzeiro-SP. Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor fullstack, criando projetos que abrangem tanto o front-end quanto o back-end para fortalecer meu portfólio.<br><br>
+  Meu nome é Danilo José, tenho 19 anos e sou natural de Recife-PE, atualmente moro em Cruzeiro-SP. Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor fullstack, criando projetos que abrangem tanto o front-end quanto o back-end para fortalecer meu portfólio.<br><br>
   Embora ainda não tenha experiência profissional formal na área, tenho me dedicado a aprender e aplicar tecnologias modernas para desenvolver soluções completas. Com meus conhecimentos e habilidades em desenvolvimento fullstack, estou comprometido em contribuir ao máximo para o crescimento da empresa.<br><br>
   Sou uma pessoa proativa, com grande vontade de aprender e aprimorar minhas competências, além de gostar de trabalhar em equipe e colaborar em ambientes ágeis.
 </p>
